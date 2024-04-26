@@ -1,0 +1,31 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+}
+
+.menu {
+  animation: fadeIn 0.4s ease-in-out;
+  min-width: 100%;
+  width: auto !important;
+}
+
+.menu--close {
+  animation: fadeOut 0.4s ease-in-out;
+}

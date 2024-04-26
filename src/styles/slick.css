@@ -1,0 +1,34 @@
+.carousel-syncing__for .slick-slider .slick-track {
+  display: flex;
+  align-items: stretch;
+}
+
+.carousel-syncing__for .slick-slider .slick-track .slick-slide {
+  height: auto;
+}
+
+.carousel-syncing__for .slick-slider .slick-track .slick-slide div,
+.carousel-syncing__for .slick-slider .slick-track .slick-slide div span {
+  height: 100%;
+}
+
+.carousel-syncing__nav .slick-slider .slick-track {
+  display: flex;
+  gap: 10px;
+}
+
+.carousel-center-mode .slick-slide.slick-center {
+  transform: scale(1.2);
+  position: relative;
+  z-index: 1;
+}
+
+.carousel-center-mode.slick-slider .slick-track {
+  padding: 80px 0;
+}
+
+@media screen and (max-width: 767px) {
+  .carousel-syncing__nav .slick-slider .slick-track {
+    gap: 5px;
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "printWidth": 160,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "singleQuote": false,
+  "semi": true,
+  "importOrder": [
+    "react&",
+    "^(react-)w+$",
+    "prop-types",
+    "axios",
+    "classnames",
+    "qs",
+    "short-uuid",
+    "moment",
+    "lodash",
+    "@/layouts",
+    "@/components",
+    "@/componentsV2",
+    "@/componentsV3",
+    "^(?!react)\\w+$",
+    "^[./]"
+  ],
+  "importOrderBuiltinModulesToTop": true,
+  "importOrderCaseInsensitive": true,
+  "importOrderParserPlugins": ["typescript", "jsx", "decorators-legacy"],
+  "importOrderMergeDuplicateImports": true,
+  "importOrderCombineTypeAndValueImports": true,
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}

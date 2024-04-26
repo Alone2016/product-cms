@@ -1,0 +1,28 @@
+<svg width="35" height="24" viewBox="0 0 35 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2479_22650)">
+<g filter="url(#filter0_d_2479_22650)">
+<g clip-path="url(#clip1_2479_22650)">
+<rect x="0.5" y="0.5" width="34" height="23" rx="3.5" fill="white" stroke="#DDDDE3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.6253 16.2584H8.50494L6.91495 10.1925C6.83949 9.9135 6.67925 9.66682 6.44354 9.55056C5.85531 9.25839 5.20712 9.02586 4.5 8.90859V8.67505H7.91567C8.38708 8.67505 8.74064 9.02586 8.79957 9.43329L9.62454 13.8088L11.7438 8.67505H13.8052L10.6253 16.2584ZM14.9826 16.2584H12.9801L14.629 8.67505H16.6315L14.9826 16.2584ZM19.2213 10.7757C19.2802 10.3673 19.6338 10.1337 20.0463 10.1337C20.6945 10.0751 21.4006 10.1924 21.9898 10.4835L22.3434 8.85081C21.7541 8.61727 21.1059 8.5 20.5177 8.5C18.5742 8.5 17.1599 9.55041 17.1599 11.0082C17.1599 12.1173 18.1617 12.6996 18.8688 13.0504C19.6338 13.4002 19.9284 13.6338 19.8695 13.9835C19.8695 14.5082 19.2802 14.7418 18.692 14.7418C17.9849 14.7418 17.2778 14.5669 16.6306 14.2747L16.2771 15.9085C16.9842 16.1996 17.7492 16.3169 18.4563 16.3169C20.6356 16.3745 21.9898 15.3251 21.9898 13.75C21.9898 11.7665 19.2213 11.6502 19.2213 10.7757ZM28.9975 16.2584L27.4075 8.67505H25.6997C25.3461 8.67505 24.9926 8.90859 24.8747 9.25839L21.9305 16.2584H23.9919L24.4033 15.1504H26.9361L27.1718 16.2584H28.9975ZM25.9987 10.7169L26.5869 13.575H24.938L25.9987 10.7169Z" fill="#172B85"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_2479_22650" x="-20" y="-20" width="75" height="64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2479_22650"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2479_22650" result="shape"/>
+</filter>
+<clipPath id="clip0_2479_22650">
+<rect width="35" height="24" rx="4" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2479_22650">
+<rect width="35" height="24" rx="4" fill="white"/>
+</clipPath>
+</defs>
+</svg>
